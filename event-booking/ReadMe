@@ -1,0 +1,11 @@
+
+        ========== READ ME ==========
+
+ ==> Clone the project
+ ==> checkout change directory into event-booking
+ ==> run mvn clean install to build application
+
+ ==> create a user,
+ ==> login using the credential and get the token
+ ==> use the token above as Authorization header to permit the other requests
+        ======== Thank you ==========
